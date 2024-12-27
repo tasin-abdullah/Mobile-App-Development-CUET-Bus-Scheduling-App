@@ -2,28 +2,47 @@
     <string name="app_name">CUETBusSchedulingApp</string>
     <string name="splash_name">BUS Schedule
         CUET</string>
-    <string name="info1">Operating Days :\n
-        *** Saturday to Thursday ***\n\n
+    <string name="info1"><big>Operating Days :\n </big>
+        *** Saturday - Thursday ***\n\n
         Off - Friday\n\n
-        Schedule :\n
+        <big>Schedule : </big>\n
         * This schedule is for Sunday-Thursday\n\n
-        Morning Schedule :\n\n
+        <big>Morning Schedule : </big>b\n\n
         Route - 1 : 7.00 am from Agrabad\n
         Route - 2 : 7.15 am from Station\n
         Route - 3 : 7.45 am from Station\n\n
-        Afternoon Schedule :\n\n
+        <big>Afternoon Schedule : </big>\n\n
         Afternoon route : 1.00 pm from Campus\n
         Afternoon route : 2.00 pm from Campus\n\n
-        Evening Schedule :\n\n
-        5.05 pm from the Campus</string>
+        <big>Evening Schedule : </big>\n\n
+        5.05 pm from the Campus\n\n</string>
 
-<!--    <string name="routes_text">Routes :\n\n-->
-<!--        CUET Buses follows three basic routes.\n\n-->
-<!--        Route - 1 : Agrabad to Choumuhoni to Dewanhaat to Tiger-Pass to Lalkhan Bazar to WASA to GEC Circle to 2 No. Gate to Technical Moor to Shershah to Cantonment to Oxygen to Noyarhat to Ananya Abashik to CUET (follows the same route while returning to city)\n\n-->
-<!--        Route - 2 : Station to Tiger-Pass to Lalkhan Bazar to WASA to GEC Circle to 2 No. Gate to Muradpur to Bohoddarhat to Kaptai Raster Matha to Quaish to CUET (follows the same route while returning to city\n\n-->
-<!--        Route - 3 (Teacher's and Staff route) : Station to New Market to Kotowali to Laldighi to Anderkilla to Dewan Bazar to ChawkBazar to KapasGola to Bohoddarhaat to Kaptai Rastar Matha to CUET (follows the same route while returning to city)\n\n-->
+    <string name="routes_text"><big>Routes :</big>\n\n
+        CUET Buses follows three basic routes.\n\n
+        Route - 1 : Agrabad - Choumuhoni - Dewanhaat - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Technical Moor - Shershah - Can-nment - Oxygen - Noyarhat - Ananya Abashik - CUET (follows the same route while returning - city)\n\n
+        Route - 2 : Station - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Muradpur - Bohoddarhat - Kaptai Raster Matha - Quaish - CUET (follows the same route while returning - city\n\n
+        Route - 3 (Teachers and Staff route) : Station - New Market - Ko-wali - Laldighi - Anderkilla - Dewan Bazar - ChawkBazar - KapasGola - Bohoddarhaat - Kaptai Rastar Matha - CUET (follows the same route while returning - city)\n\n
 <!--        Routes of Afternoon :\n\n-->
-<!--        Each and every bus follows the same route in afternoon schedule. ( CUET to Noapara to Nojumia Haat to Quaish to Rastar Matha)-->
-<!--    </string>-->
+<!--        Each and every bus follows the same route in afternoon schedule. ( CUET - Noapara - Nojumia Haat - Quaish - Rastar Matha)-->
+    </string>
 
+    <string name="buses_text">
+        <big> Buses :</big>\n
+        1. Padma\n
+        2. Meghna\n
+        3. Jamuna\n
+        4. Rupsha\n
+        5. Ichamoti\n
+        6. Shangu\n
+        7. Tistha\n
+        8. Halda\n
+        9. Matamuhuri\n
+        10. Turaag\n
+        11. Shurma\n
+        12. Gomoti\n
+        13. Buriganga
+    </string>
+    <string name="notice">Only Gomoti Bus will be available at Route No. 1.\m
+    Authority can change the alloted bus to the different routes if necessary.
+    This roaster is only applicable for december month.</string>
 </resources>
