@@ -1,24 +1,50 @@
-<LinearLayout
+<androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
     android:gravity="center"
-    android:background="#FFFFFF">
+    android:background="@color/md_theme_tertiaryContainer_mediumContrast">
 
-    <Button
-        android:id="@+id/showScheduleButton"
+    <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Show Schedule"
-        android:padding="16dp" />
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/poppinslight"
+        android:text="Welcome to CUET Bus Scheduler"
+        android:textAlignment="center"
+        android:textColor="@color/colorOnCustomColor1"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </TextView>
 
     <Button
         android:id="@+id/showBusInfoButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Show Bus Info"
+        android:layout_marginTop="30dp"
         android:padding="16dp"
-        android:layout_marginTop="16dp" />
-</LinearLayout>
+        android:text="Show Bus Info"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/showScheduleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_marginTop="30dp"
+        android:text="Show Schedule"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/showBusInfoButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -4,14 +4,17 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="#FF6200EE">
+    android:background="@color/md_theme_tertiary">
 
     <TextView
         android:id="@+id/splashText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BUS Schedule CUET"
-        android:textSize="24sp"
+        android:text="BUS Schedule
+        CUET"
+        android:fontFamily="@font/poppinssemiboldtalic"
+        android:textSize="40sp"
+        android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textStyle="bold" />
 </LinearLayout>
