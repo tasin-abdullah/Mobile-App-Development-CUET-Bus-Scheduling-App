@@ -2,4 +2,28 @@
     <string name="app_name">CUETBusSchedulingApp</string>
     <string name="splash_name">BUS Schedule
         CUET</string>
+    <string name="info1">Operating Days :\n
+        *** Saturday to Thursday ***\n\n
+        Off - Friday\n\n
+        Schedule :\n
+        * This schedule is for Sunday-Thursday\n\n
+        Morning Schedule :\n\n
+        Route - 1 : 7.00 am from Agrabad\n
+        Route - 2 : 7.15 am from Station\n
+        Route - 3 : 7.45 am from Station\n\n
+        Afternoon Schedule :\n\n
+        Afternoon route : 1.00 pm from Campus\n
+        Afternoon route : 2.00 pm from Campus\n\n
+        Evening Schedule :\n\n
+        5.05 pm from the Campus</string>
+
+<!--    <string name="routes_text">Routes :\n\n-->
+<!--        CUET Buses follows three basic routes.\n\n-->
+<!--        Route - 1 : Agrabad to Choumuhoni to Dewanhaat to Tiger-Pass to Lalkhan Bazar to WASA to GEC Circle to 2 No. Gate to Technical Moor to Shershah to Cantonment to Oxygen to Noyarhat to Ananya Abashik to CUET (follows the same route while returning to city)\n\n-->
+<!--        Route - 2 : Station to Tiger-Pass to Lalkhan Bazar to WASA to GEC Circle to 2 No. Gate to Muradpur to Bohoddarhat to Kaptai Raster Matha to Quaish to CUET (follows the same route while returning to city\n\n-->
+<!--        Route - 3 (Teacher's and Staff route) : Station to New Market to Kotowali to Laldighi to Anderkilla to Dewan Bazar to ChawkBazar to KapasGola to Bohoddarhaat to Kaptai Rastar Matha to CUET (follows the same route while returning to city)\n\n-->
+<!--        Routes of Afternoon :\n\n-->
+<!--        Each and every bus follows the same route in afternoon schedule. ( CUET to Noapara to Nojumia Haat to Quaish to Rastar Matha)-->
+<!--    </string>-->
+
 </resources>
