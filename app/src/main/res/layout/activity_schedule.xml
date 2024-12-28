@@ -35,7 +35,9 @@
                         android:textStyle="bold"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="@color/black"/>
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:fontFamily="@font/poppinslight"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -44,7 +46,9 @@
                         android:textStyle="bold"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="@color/black"/>
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -52,12 +56,16 @@
                         android:text="Padma"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -65,12 +73,16 @@
                         android:text="Meghna"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -78,12 +90,15 @@
                         android:text="Jamuna"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -91,12 +106,16 @@
                         android:text="Rupsha"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -104,12 +123,15 @@
                         android:text="Ichamoti"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -117,11 +139,16 @@
                         android:text="Shangu"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="3"
                         android:padding="8dp"
-                        android:gravity="center" />
+                        android:gravity="center"
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -129,12 +156,16 @@
                         android:text="Tistha"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -142,12 +173,16 @@
                         android:text="Halda"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="3"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -155,12 +190,16 @@
                         android:text="Matamuhuri"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="3"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -168,12 +207,16 @@
                         android:text="Turaag"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -181,12 +224,16 @@
                         android:text="Shurma"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -194,12 +241,16 @@
                         android:text="Gomoti"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="1"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
                 <TableRow>
@@ -207,12 +258,16 @@
                         android:text="Buriganga"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                     <TextView
                         android:text="2"
                         android:padding="8dp"
                         android:gravity="center"
-                        android:textColor="#FFFFFF"/>
+                        android:textColor="#FFFFFF"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppinslight"/>
                 </TableRow>
 
             </TableLayout>
@@ -222,6 +277,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/notice"
                 android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:fontFamily="@font/poppinslight"
                 android:layout_marginTop="30dp">
             </TextView>
         </LinearLayout>

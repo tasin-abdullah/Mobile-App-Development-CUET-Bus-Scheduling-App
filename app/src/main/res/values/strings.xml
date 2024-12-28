@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">CUETBusSchedulingApp</string>
+    <string name="app_name">CUET BUS Scheduler</string>
     <string name="splash_name">BUS Schedule
         CUET</string>
-    <string name="info1"><big>Operating Days :\n </big>
+    <string name="info1"><big><b>Operating Days :\n </b></big>
         *** Saturday - Thursday ***\n\n
         Off - Friday\n\n
-        <big>Schedule : </big>\n
+        <big><b>Schedule : </b></big>\n
         * This schedule is for Sunday-Thursday\n\n
-        <big>Morning Schedule : </big>b\n\n
+        <big> <b>Morning Schedule : </b></big>\n\n
         Route - 1 : 7.00 am from Agrabad\n
         Route - 2 : 7.15 am from Station\n
         Route - 3 : 7.45 am from Station\n\n
-        <big>Afternoon Schedule : </big>\n\n
+        <big><b>Afternoon Schedule :</b> </big>\n\n
         Afternoon route : 1.00 pm from Campus\n
         Afternoon route : 2.00 pm from Campus\n\n
-        <big>Evening Schedule : </big>\n\n
+        <big><b>Evening Schedule :</b> </big>\n\n
         5.05 pm from the Campus\n\n</string>
 
-    <string name="routes_text"><big>Routes :</big>\n\n
+    <string name="routes_text"><big><b>Routes :</b></big>\n\n
         CUET Buses follows three basic routes.\n\n
         Route - 1 : Agrabad - Choumuhoni - Dewanhaat - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Technical Moor - Shershah - Can-nment - Oxygen - Noyarhat - Ananya Abashik - CUET (follows the same route while returning - city)\n\n
         Route - 2 : Station - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Muradpur - Bohoddarhat - Kaptai Raster Matha - Quaish - CUET (follows the same route while returning - city\n\n
@@ -27,7 +27,7 @@
     </string>
 
     <string name="buses_text">
-        <big> Buses :</big>\n
+        <big><b> Buses :</b></big>\n
         1. Padma\n
         2. Meghna\n
         3. Jamuna\n
@@ -39,10 +39,10 @@
         9. Matamuhuri\n
         10. Turaag\n
         11. Shurma\n
-        12. Gomoti\n
+        12. Goumoti\n
         13. Buriganga
     </string>
-    <string name="notice">Only Gomoti Bus will be available at Route No. 1.\m
-    Authority can change the alloted bus to the different routes if necessary.
+    <string name="notice">Only Goumoti Bus will be available at Route No. 1.\n
+    Authority can change the routes of alloted buses to the different routes if necessary.
     This roaster is only applicable for december month.</string>
 </resources>

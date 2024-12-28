@@ -27,11 +27,13 @@
 
     <Button
         android:id="@+id/showBusInfoButton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:padding="16dp"
         android:text="Show Bus Info"
+        android:fontFamily="@font/poppinslight"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,11 +41,13 @@
 
     <Button
         android:id="@+id/showScheduleButton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:layout_marginTop="30dp"
+        android:fontFamily="@font/poppinslight"
         android:text="Show Schedule"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/showBusInfoButton" />

@@ -21,7 +21,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/info1"
                 android:textColor="@color/md_theme_onPrimary"
-                android:fontFamily="@font/poppinslight">
+                android:fontFamily="@font/poppinslight"
+                android:textSize="18sp">
             </TextView>
             <TextView
                 android:id="@+id/textview2"
@@ -29,7 +30,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/routes_text"
                 android:textColor="@color/md_theme_onPrimary"
-                android:fontFamily="@font/poppinslight">
+                android:fontFamily="@font/poppinslight"
+                android:textSize="18sp">
             </TextView>
 
             <TextView
@@ -37,6 +39,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/buses_text"
+                android:textSize="18sp"
                 android:textColor="@color/md_theme_onPrimary"
                 android:fontFamily="@font/poppinslight">
             </TextView>
