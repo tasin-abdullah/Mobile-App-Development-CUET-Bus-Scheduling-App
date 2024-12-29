@@ -27,5 +27,9 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, BusInfoActivity::class.java)
             startActivity(intent)
         }
+        binding.showNotifyButton.setOnClickListener {
+            val intent = Intent(this, AnnouncementActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

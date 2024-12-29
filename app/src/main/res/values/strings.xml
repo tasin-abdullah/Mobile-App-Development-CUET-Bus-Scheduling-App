@@ -19,11 +19,11 @@
 
     <string name="routes_text"><big><b>Routes :</b></big>\n\n
         CUET Buses follows three basic routes.\n\n
-        Route - 1 : Agrabad - Choumuhoni - Dewanhaat - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Technical Moor - Shershah - Can-nment - Oxygen - Noyarhat - Ananya Abashik - CUET (follows the same route while returning - city)\n\n
-        Route - 2 : Station - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Muradpur - Bohoddarhat - Kaptai Raster Matha - Quaish - CUET (follows the same route while returning - city\n\n
-        Route - 3 (Teachers and Staff route) : Station - New Market - Ko-wali - Laldighi - Anderkilla - Dewan Bazar - ChawkBazar - KapasGola - Bohoddarhaat - Kaptai Rastar Matha - CUET (follows the same route while returning - city)\n\n
-<!--        Routes of Afternoon :\n\n-->
-<!--        Each and every bus follows the same route in afternoon schedule. ( CUET - Noapara - Nojumia Haat - Quaish - Rastar Matha)-->
+        Route - 1 : Agrabad - Choumuhoni - Dewanhaat - Tiger-Pass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Technical Moor - Shershah - Cantonment - Oxygen - Noyarhat - Ananya Abashik - CUET (follows the same route while returning to city)\n\n
+        Route - 2 : Station - TigerPass - Lalkhan Bazar - WASA - GEC Circle - 2 No. Gate - Muradpur - Bohoddarhat - Kaptai Raster Matha - Quaish - CUET (follows the same route while returning to city)\n\n
+        Route - 3 (Teachers and Staff route) : Station - New Market - Ko-wali - Laldighi - Anderkilla - Dewan Bazar - ChawkBazar - KapasGola - Bohoddarhaat - Kaptai Rastar Matha - CUET (follows the same route while returning to city)\n\n
+        <!--        Routes of Afternoon :\n\n-->
+        <!--        Each and every bus follows the same route in afternoon schedule. ( CUET - Noapara - Nojumia Haat - Quaish - Rastar Matha)-->
     </string>
 
     <string name="buses_text">

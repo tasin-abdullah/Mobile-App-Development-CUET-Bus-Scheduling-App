@@ -51,4 +51,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/showBusInfoButton" />
+
+    <Button
+        android:id="@+id/showNotifyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinslight"
+        android:padding="16dp"
+        android:text="Special Announcement"
+        android:layout_marginTop="30dp"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/showScheduleButton" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
